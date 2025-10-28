@@ -4,4 +4,4 @@ Todas las soluciones en **Java** a los problemas de [Acepta el Reto](https://www
 ## Tabla de problemas
 | Nº | Nombre | Solución
 |--|--|--|
-| 100 | [Constante de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=100) | [AceptaElReto100Kaprekar.cpp]()| | |
+| 100 | [Constante de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=100) | [p100.java]()| | |
