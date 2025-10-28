@@ -1,2 +1,7 @@
-# Acepta-el-Reto_100-199
-Solución a los problemas de Acepta el Reto en Java
+## Contenido
+Todas las soluciones en *Java* a los problemas [Acepta el Reto](https://www.aceptaelreto.com/) del 100 al 199. Todos los problemas han sido comprobados por el juez automático.
+
+## Tabla de problemas
+| Nº | Nombre | Solución
+|--|--|--|
+| 100 | [Constante de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=100) | [AceptaElReto100Kaprekar.cpp]()| | |
