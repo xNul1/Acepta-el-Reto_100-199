@@ -1,5 +1,5 @@
 ## Contenido
-Todas las soluciones en *Java* a los problemas [Acepta el Reto](https://www.aceptaelreto.com/) del 100 al 199. Todos los problemas han sido comprobados por el juez automático.
+Todas las soluciones en **Java** a los problemas de [Acepta el Reto](https://www.aceptaelreto.com/) del 100 al 199 (todos los problemas han sido comprobados por el juez automático)
 
 ## Tabla de problemas
 | Nº | Nombre | Solución
